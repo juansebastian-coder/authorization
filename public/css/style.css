@@ -1,0 +1,20 @@
+ul {
+    border-bottom: 1px solid black;
+}
+
+#flogin {
+    margin-top: 5%;
+    width: 60%;
+}
+
+.has-error {
+    color: red;
+}
+
+li {
+    list-style: none;
+}
+
+.ol {
+    width: 60%;
+}
